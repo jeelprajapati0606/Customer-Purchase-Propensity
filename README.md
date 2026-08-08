@@ -1,3 +1,4 @@
+
 # 🛒 Customer Purchase Propensity
 
 ### Data Cleaning • EDA • Feature Engineering • Preprocessing Pipeline
@@ -18,15 +19,15 @@
   <img src="https://img.shields.io/badge/🎥%20Demo%20Video-7C3AED?style=for-the-badge">
 </a>
 
-<a href="YOUR_JUPYTER_NOTEBOOK_LINK" target="_blank">
+<a href="https://github.com/jeelprajapati0606/Customer-Purchase-Propensity/blob/main/Customer%20Purchase%20Propensity-checkpoint.ipynb" target="_blank">
   <img src="https://img.shields.io/badge/📓%20Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </a>
 
-<a href="YOUR_CLEAN_CSV_LINK" target="_blank">
+<a href="https://github.com/jeelprajapati0606/Customer-Purchase-Propensity/blob/main/processed_customer_data.csv" target="_blank">
   <img src="https://img.shields.io/badge/📊%20Clean%20CSV-2EA44F?style=for-the-badge&logo=databricks&logoColor=white">
 </a>
 
-<a href="YOUR_SUMMARY_REPORT_LINK" target="_blank">
+<a href="https://docs.google.com/document/d/10IN2GSRke3DrDDuuTmPbaIIjHaUnqLZX/edit?usp=sharing&ouid=103936377644342623234&rtpof=true&sd=true" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Project%20Report-6F42C1?style=for-the-badge&logo=readthedocs&logoColor=white">
 </a>
 
