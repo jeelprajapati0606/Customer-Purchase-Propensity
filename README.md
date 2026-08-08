@@ -16,7 +16,7 @@
 <p align="center">
 
 <a href="YOUR_DEMO_VIDEO_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/🎥%20Demo%20Video-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🎥%20Demo%20Video-0891B2?style=for-the-badge">
 </a>
 
 <a href="https://github.com/jeelprajapati0606/Customer-Purchase-Propensity/blob/main/Customer%20Purchase%20Propensity-checkpoint.ipynb" target="_blank">
@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://docs.google.com/document/d/10IN2GSRke3DrDDuuTmPbaIIjHaUnqLZX/edit?usp=sharing&ouid=103936377644342623234&rtpof=true&sd=true" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20Project%20Report-6F42C1?style=for-the-badge&logo=readthedocs&logoColor=white">
+  <img src="https://img.shields.io/badge/📄%20Summary%20Report-6F42C1?style=for-the-badge">
 </a>
 
 </p>
